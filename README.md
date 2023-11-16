@@ -1,2 +1,2 @@
 # TemplateMethodPattern
-Exanple from the book: Head First Design Patterns
+Example from the book: Head First Design Patterns
